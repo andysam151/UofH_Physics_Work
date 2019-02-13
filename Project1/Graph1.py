@@ -9,14 +9,14 @@ def henon_attractor(a, b, x, y):
 
 
 # dependant conditions
-a = float(input("a value:"))
-b = float(input("b value:"))
+a = 1.4  # float(input("a value:"))
+b = 0.3  # float(input("b value:"))
 iterations = int(input("points:"))
 
 # initial conditions
-x_initial = float(input("initial x:"))
-y_initial = float(input("initial y:"))
-time_out = int(input("time out in seconds:"))
+x_initial = 0.1  # float(input("initial x:"))
+y_initial = 0.1  # float(input("initial y:"))
+time_out = 10000  # int(input("time out in seconds:"))
 box_length = float(input("size of box:"))
 start_time = time.process_time()
 x = [x_initial]
@@ -90,7 +90,7 @@ for m in range(len(x)):
     if time.process_time() - crunch_time > time_out:
         break
 dimension = -1 * math.log(len(box_count), box_length)
-print("number of boxes: " + str(len(box_count)) + " box edge length is: " + str(box_length))
+print("number of boxes: " + str(len(box_count)) + " number of boxes: " + str(x_box*y_box))
 print("dimension is: " + str(dimension))
 print("Finished in " + str(time.process_time()) + "seconds")
 
