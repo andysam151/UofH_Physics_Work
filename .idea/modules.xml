@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Henon_Periodic_Orbits.iml" filepath="$PROJECT_DIR$/.idea/Henon_Periodic_Orbits.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Project1/.idea/Project1.iml" filepath="$PROJECT_DIR$/../Project1/.idea/Project1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../../Physics Research/Python/Project1/.idea/Project1.iml" filepath="$PROJECT_DIR$/../../../../Physics Research/Python/Project1/.idea/Project1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Project_2/.idea/Project_2.iml" filepath="$PROJECT_DIR$/../Project_2/.idea/Project_2.iml" />
     </modules>
   </component>
