@@ -9,14 +9,14 @@ def henon_attractor(a, b, x, y):
 
 
 # dependant conditions
-a = 1.4  # float(input("a value:"))
-b = 0.3  # float(input("b value:"))
+a = float(input("a value:"))
+b = float(input("b value:"))
 iterations = int(input("points:"))
 
 # initial conditions
-x_initial = 0.1  # float(input("initial x:"))
-y_initial = 0.1  # float(input("initial y:"))
-time_out = 10000  # int(input("time out in seconds:"))
+x_initial = float(input("initial x:"))
+y_initial = float(input("initial y:"))
+time_out = int(input("time out in seconds:"))
 box_length = float(input("size of box:"))
 start_time = time.process_time()
 x = [x_initial]
