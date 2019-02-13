@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Newton_Method/.idea/Newton_Method.iml" filepath="$PROJECT_DIR$/../Newton_Method/.idea/Newton_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Henon_Periodic_Orbits.iml" filepath="$PROJECT_DIR$/.idea/Henon_Periodic_Orbits.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Project1/.idea/Project1.iml" filepath="$PROJECT_DIR$/../Project1/.idea/Project1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Project_2.iml" filepath="$PROJECT_DIR$/.idea/Project_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../Programming/IDE Workspace/Python/Universal_Behavior_in_Nonlinear_Systems/.idea/Universal_Behavior_in_Nonlinear_Systems.iml" filepath="$PROJECT_DIR$/../../../Programming/IDE Workspace/Python/Universal_Behavior_in_Nonlinear_Systems/.idea/Universal_Behavior_in_Nonlinear_Systems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Physics Research/Python/Project1/.idea/Project1.iml" filepath="$PROJECT_DIR$/../../../../Physics Research/Python/Project1/.idea/Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project_2/.idea/Project_2.iml" filepath="$PROJECT_DIR$/../Project_2/.idea/Project_2.iml" />
     </modules>
   </component>
 </project>
