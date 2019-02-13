@@ -1,16 +1,19 @@
 import matplotlib.pyplot as plt
 
+
 def chose_first(elem):
     done = []
     for n in range(len(elem)):
         done.append(elem[n][0])
     return done
 
+
 def chose_second(elem):
     done = []
     for n in range(len(elem)):
         done.append(elem[n][1])
     return done
+
 
 c_1 = []
 c_2 = [[-0.6661200716450788, 0.4098360214935236], [1.3661200716450788, -0.19983602149352364]]
