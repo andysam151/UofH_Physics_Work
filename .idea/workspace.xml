@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3724461-5cd0-49fd-962c-15cf4bc0466d" name="Default Changelist" comment="project 2" />
+    <list default="true" id="a78a5d40-c707-47cd-9ddd-f1f2b6c537d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues" beforeDir="false" afterPath="$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +13,70 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Starts.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project1/box_counting_graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72">
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Project1/box_counting_values.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project1/ZoomedGraph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,6 +119,12 @@
         <option value="$PROJECT_DIR$/henon_map_cycles_v3.py" />
         <option value="$PROJECT_DIR$/Henon_Fixed_Point.py" />
         <option value="$PROJECT_DIR$/henon_map_cycles_v2.py" />
+        <option value="$PROJECT_DIR$/Henon_Periodic_Orbits/Draw_Cycles.py" />
+        <option value="$PROJECT_DIR$/Project1/box_counting_graph.py" />
+        <option value="$PROJECT_DIR$/Project1/Graph1.py" />
+        <option value="$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py" />
+        <option value="$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues" />
+        <option value="$PROJECT_DIR$/Project1/box_counting_values.txt" />
       </list>
     </option>
   </component>
@@ -72,12 +145,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="Project_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Henon_Periodic_Orbits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Henon_Periodic_Orbits" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Project_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newton_Method" type="462c0819:PsiDirectoryNode" />
+              <item name="Henon_Periodic_Orbits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Henon_Periodic_Orbits" type="462c0819:PsiDirectoryNode" />
+              <item name="Henon_Periodic_Orbits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Henon_Periodic_Orbits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Henon_Periodic_Orbits" type="462c0819:PsiDirectoryNode" />
+              <item name="Project1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -108,20 +187,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.henon_map_cycles_v2">
-    <configuration name="Graph1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project1" />
+  <component name="RunManager" selected="Python.ZoomedGraph">
+    <configuration name="Eigen_Zoom" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Henon_Periodic_Orbits" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Project1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Henon_Periodic_Orbits" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Project1/Graph1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Graph1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Henon_Periodic_Orbits" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project1/Graph1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +251,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="henon_map_cycles (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ZoomedGraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Henon_Periodic_Orbits" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project1/ZoomedGraph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../henon_map_cycles.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,19 +293,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="henon_map_cycles_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_2" />
+    <configuration name="box_counting_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Henon_Periodic_Orbits" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/henon_map_cycles_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project1/box_counting_graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,41 +314,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="henon_map_cycles_v3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_2" />
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/henon_map_cycles_v3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Graph1" />
-      <item itemvalue="Python.henon_map_cycles (1)" />
-      <item itemvalue="Python.henon_map_cycles_v2" />
-      <item itemvalue="Python.henon_map_cycles_v3" />
       <item itemvalue="Python.Henon_Fixed_Point" />
+      <item itemvalue="Python.Graph1" />
+      <item itemvalue="Python.box_counting_graph" />
+      <item itemvalue="Python.Eigen_Zoom" />
+      <item itemvalue="Python.ZoomedGraph" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.henon_map_cycles_v2" />
-        <item itemvalue="Python.Henon_Fixed_Point" />
-        <item itemvalue="Python.henon_map_cycles_v3" />
+        <item itemvalue="Python.ZoomedGraph" />
+        <item itemvalue="Python.box_counting_graph" />
+        <item itemvalue="Python.Eigen_Zoom" />
         <item itemvalue="Python.Graph1" />
-        <item itemvalue="Python.henon_map_cycles (1)" />
+        <item itemvalue="Python.Henon_Fixed_Point" />
       </list>
     </recent_temporary>
   </component>
@@ -256,25 +385,40 @@
       <option name="project" value="LOCAL" />
       <updated>1549443260658</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2/13/19 box counting graph update">
+      <created>1550078395139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550078395139</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2/13/19 box counting graph update">
+      <created>1550080095669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550080095669</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22412509" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24917382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35977337" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35977337" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4996277" visible="true" weight="0.3294702" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4996277" weight="0.3294702" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003723" side_tool="true" visible="true" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003723" side_tool="true" weight="0.3294702" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -302,7 +446,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="project 2" />
+    <MESSAGE value="2/13/19 box counting graph update" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/13/19 box counting graph update" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -335,95 +480,90 @@
     <entry file="file://$PROJECT_DIR$/Escape_Point.py" />
     <entry file="file://$PROJECT_DIR$/All_Cycles_Escape _Point.py" />
     <entry file="file://$PROJECT_DIR$/Period_Doubling_Method_2.py" />
-    <entry file="file://$PROJECT_DIR$/Stable_Tracer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basins_of_Attraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Newton_Finder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Superstable_Finder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cycle_Tracer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sin_Finder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Stable_Tracer.py" />
+    <entry file="file://$PROJECT_DIR$/Basins_of_Attraction.py" />
+    <entry file="file://$PROJECT_DIR$/Newton_Finder.py" />
+    <entry file="file://$PROJECT_DIR$/Superstable_Finder.py" />
+    <entry file="file://$PROJECT_DIR$/Cycle_Tracer.py" />
+    <entry file="file://$PROJECT_DIR$/Sin_Finder.py" />
     <entry file="file://$PROJECT_DIR$/../../../Programming/IDE Workspace/Python/Universal_Behavior_in_Nonlinear_Systems/Universal_Convergence_Value.py" />
     <entry file="file://$PROJECT_DIR$/../Newton_Method/2D_Fxns.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../Project1/Sin_Map.py" />
-    <entry file="file://$PROJECT_DIR$/Superstable_Finder_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Two_Cycle_Tracer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Period_Doubling_Series.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Superstable_Finder_v2.py" />
+    <entry file="file://$PROJECT_DIR$/Two_Cycle_Tracer.py" />
+    <entry file="file://$PROJECT_DIR$/Period_Doubling_Series.py" />
     <entry file="file://$PROJECT_DIR$/../Project1/Graph1.py" />
     <entry file="file://$PROJECT_DIR$/henon_map_cycles_v3.py" />
     <entry file="file://$PROJECT_DIR$/Henon_Fixed_Point.py" />
     <entry file="file://$PROJECT_DIR$/../../henon_map_cycles.py" />
-    <entry file="file://$PROJECT_DIR$/henon_map_cycles.py">
+    <entry file="file://$PROJECT_DIR$/henon_map_cycles.py" />
+    <entry file="file://$PROJECT_DIR$/henon_map_cycles_v2.py" />
+    <entry file="file://$PROJECT_DIR$/Project1/Graph1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+        <state relative-caret-position="306">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/henon_map_cycles_v2.py">
+    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Draw_Cycles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project1/box_counting_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Starts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project1/ZoomedGraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project1/box_counting_values.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>

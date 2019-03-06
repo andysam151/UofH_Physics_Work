@@ -39,22 +39,22 @@ def chose_second(elem):
     return done
 
 
-def henon_plot_and_undo(points_to_plot):
+def henon_plot_and_undo(npoints_to_plot):
     new_points_to_plot = []
 
-    for h in range(len(points_to_plot)):
-        new_x, new_y = henon_attractor(1.4,0.3,points_to_plot[h][0],points_to_plot[h][1])
+    for h in range(len(npoints_to_plot)):
+        new_x, new_y = henon_attractor(1.4,0.3,npoints_to_plot[h][0],npoints_to_plot[h][1])
         new_points_to_plot.append([new_x, new_y])
 
     plt.plot(chose_first(new_points_to_plot),chose_second(new_points_to_plot),'r,')
     plt.show()
     final_points_to_plot = []
+    a_value_1 = math.sqrt(1 + (math.pow(0.3, 2) / math.pow(eigenvalue[0], 2)))
+    a_value_2 = math.sqrt(1 + (math.pow(0.3, 2) / math.pow(eigenvalue[1], 2)))
 
     for n in range(len(new_points_to_plot)):
-        a_value_1 = eigenvalue[0] * math.sqrt(1 / (math.pow(eigenvalue[0], 2) + (4*math.pow(new_points_to_plot[n][0], 2)) + (4*eigenvalue[0]*new_points_to_plot[n][0]) + 1))
-        a_value_2 = eigenvalue[1] * math.sqrt(1 / (math.pow(eigenvalue[1], 2) + (4*math.pow(new_points_to_plot[n][0], 2)) + (4*eigenvalue[1]*new_points_to_plot[n][0]) + 1))
-        new_xx = cycle[0] + ((new_points_to_plot[n][0]-cycle[0])/a_value_1)/a_value_2
-        new_yy = cycle[1]+((new_points_to_plot[n][1]-cycle[1])/(a_value_1*(eigenvalue[0]+(2*new_points_to_plot[n][0]))))/(a_value_2*(eigenvalue[1]+(2*new_points_to_plot[n][0])))
+        new_xx = cycle[0] + ((new_points_to_plot[n][0]-cycle[0])*eigenvalue[0]/a_value_1)*eigenvalue[1]/a_value_2
+        new_yy = cycle[1]+((new_points_to_plot[n][1]-cycle[1])*pow(eigenvalue[0],2)/0.3/a_value_1)*(pow(eigenvalue[1],2)/0.3/a_value_2)
         final_points_to_plot.append([new_xx, new_yy])
 
     plt.plot(chose_first(final_points_to_plot),chose_second(final_points_to_plot),'r,')
