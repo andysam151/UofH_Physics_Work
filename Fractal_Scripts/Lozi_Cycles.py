@@ -7,12 +7,12 @@ trys = int(input("How many newton trys?"))
 
 
 def cycles(a,b, start_x, start_y, iterations):
-    give_x = start_y + a * (1 - abs(start_x))
-    give_y = b * start_x
+    give_x = (start_y + (a-(start_x*start_x)))
+    give_y = (b*start_x)
     for n in range(iterations):
         temp = give_x
         store.append([give_x,give_y])
-        give_x = give_y + a * (1 - abs(give_x))
+        give_x = (give_y + (a - (give_x * give_x)))
         give_y = (b * temp)
 
 
@@ -28,8 +28,8 @@ for n in range(trys):
     d_yx.append(0)
     d_yy.append(1.0)
     for m in range(cycle):
-        d_xx.append((-2.0 * store[m][0] * d_xx[-1])+(d_yx[-1]))
-        d_xy.append((-2.0 * store[m][0] * d_xy[-1])+(d_yy[-1]))
+        d_xx.append((-a * d_xx[-1])+(d_yx[-1]))
+        d_xy.append((-a * d_xy[-1])+(d_yy[-1]))
         d_yx.append(b*d_xx[-2])
         d_yy.append(b*d_xy[-2])
         if m == cycle - 1:
