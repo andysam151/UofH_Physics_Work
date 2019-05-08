@@ -1,18 +1,22 @@
+import math
+
 a = float(input("a value:"))
 b = float(input("b value:"))
 start_x = float(input("start x: "))
 start_y = float(input("start y: "))
 cycle = int(input("stable cycle: "))
 trys = int(input("How many newton trys?"))
+eigen1 = 0.0
+eigen2 = 0.0
 
 
 def cycles(a,b, start_x, start_y, iterations):
-    give_x = (start_y + (a-(start_x*start_x)))
-    give_y = (b*start_x)
+    give_x = start_y + a-(a*abs(start_x))
+    give_y = b*start_x
     for n in range(iterations):
         temp = give_x
         store.append([give_x,give_y])
-        give_x = (give_y + (a - (give_x * give_x)))
+        give_x = (give_y + a - (a*abs(give_x)))
         give_y = (b * temp)
 
 
@@ -33,6 +37,8 @@ for n in range(trys):
         d_yx.append(b*d_xx[-2])
         d_yy.append(b*d_xy[-2])
         if m == cycle - 1:
+            eigen1 = (d_xx[-1] + d_yy[-1] + math.sqrt(math.pow(d_xx[-1] + d_yy[-1], 2) - (4 * ((d_xx[-1] * d_yy[-1]) - (d_xy[-1] * d_yx[-1]))))) / 2
+            eigen2 = (d_xx[-1] + d_yy[-1] - math.sqrt(math.pow(d_xx[-1] + d_yy[-1], 2) - (4 * ((d_xx[-1] * d_yy[-1]) - (d_xy[-1] * d_yx[-1]))))) / 2
             d_xx.append(d_xx[-1]-1)
             d_xy.append(d_xy[-1])
             d_yx.append(d_yx[-1])
@@ -52,5 +58,9 @@ for n in range(trys):
             else:
                 break
 
+
+
 print(start_x)
 print(start_y)
+print(eigen1)
+print(eigen2)
