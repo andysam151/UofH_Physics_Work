@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a78a5d40-c707-47cd-9ddd-f1f2b6c537d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Fractal_Scripts/Inverse_Lozi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fractal_Scripts/Lozi_Eigen_Dimension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fractal_Scripts/Lozi_Eigenvalues.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fractal_Scripts/Peak_Cycle_Values.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fractal_Scripts/Peak_Cycles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues" beforeDir="false" afterPath="$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fractal_Scripts/Brute_Force_Lozi_Cycles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fractal_Scripts/Brute_Force_Lozi_Cycles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fractal_Scripts/Lozi_Cycle_Values.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Fractal_Scripts/Lozi_Cycle_Values.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fractal_Scripts/Lozi_Cycles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fractal_Scripts/Lozi_Cycles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fractal_Scripts/Peak_Plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fractal_Scripts/Peak_Plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,63 +24,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py">
+        <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Peak_Cycles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Starts.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project1/box_counting_graph.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-72">
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Project1/box_counting_values.txt">
+        <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Peak_Cycle_Values.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project1/ZoomedGraph.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -123,8 +88,17 @@
         <option value="$PROJECT_DIR$/Project1/box_counting_graph.py" />
         <option value="$PROJECT_DIR$/Project1/Graph1.py" />
         <option value="$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py" />
-        <option value="$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues" />
         <option value="$PROJECT_DIR$/Project1/box_counting_values.txt" />
+        <option value="$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues" />
+        <option value="$PROJECT_DIR$/Fractal_Scripts/Brute_Force_Lozi_Cycles.py" />
+        <option value="$PROJECT_DIR$/Fractal_Scripts/Lozi_Cycle_Values.txt" />
+        <option value="$PROJECT_DIR$/Fractal_Scripts/Lozi_Cycles.py" />
+        <option value="$PROJECT_DIR$/Fractal_Scripts/Lozi_Eigen_Dimension.py" />
+        <option value="$PROJECT_DIR$/Fractal_Scripts/Lozi_Eigenvalues.txt" />
+        <option value="$PROJECT_DIR$/Fractal_Scripts/Inverse_Lozi.py" />
+        <option value="$PROJECT_DIR$/Fractal_Scripts/Peak_Cycle_Values.txt" />
+        <option value="$PROJECT_DIR$/Fractal_Scripts/Peak_Cycles.py" />
+        <option value="$PROJECT_DIR$/Fractal_Scripts/Peak_Plot.py" />
       </list>
     </option>
   </component>
@@ -140,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,17 +124,13 @@
             <path>
               <item name="Henon_Periodic_Orbits" type="b2602c69:ProjectViewProjectNode" />
               <item name="Henon_Periodic_Orbits" type="462c0819:PsiDirectoryNode" />
-              <item name="Henon_Periodic_Orbits" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Henon_Periodic_Orbits" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Henon_Periodic_Orbits" type="462c0819:PsiDirectoryNode" />
-              <item name="Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="Fractal_Scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,8 +156,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ZoomedGraph">
-    <configuration name="Eigen_Zoom" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Peak_Cycles">
+    <configuration name="Inverse_Lozi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Henon_Periodic_Orbits" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Henon_Periodic_Orbits" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fractal_Scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fractal_Scripts/Inverse_Lozi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Graph1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lozi_Cycles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Henon_Periodic_Orbits" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fractal_Scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project1/Graph1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fractal_Scripts/Lozi_Cycles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,19 +199,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Henon_Fixed_Point" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_2" />
+    <configuration name="Lozi_Eigen_Dimension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Henon_Periodic_Orbits" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fractal_Scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Henon_Fixed_Point.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fractal_Scripts/Lozi_Eigen_Dimension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ZoomedGraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Peak_Cycles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Henon_Periodic_Orbits" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,11 +228,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fractal_Scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project1/ZoomedGraph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fractal_Scripts/Peak_Cycles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Peak_Plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Henon_Periodic_Orbits" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fractal_Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fractal_Scripts/Peak_Plot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,27 +275,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="box_counting_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Henon_Periodic_Orbits" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project1/box_counting_graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,19 +313,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Henon_Fixed_Point" />
-      <item itemvalue="Python.Graph1" />
-      <item itemvalue="Python.box_counting_graph" />
-      <item itemvalue="Python.Eigen_Zoom" />
-      <item itemvalue="Python.ZoomedGraph" />
+      <item itemvalue="Python.Lozi_Cycles" />
+      <item itemvalue="Python.Lozi_Eigen_Dimension" />
+      <item itemvalue="Python.Inverse_Lozi" />
+      <item itemvalue="Python.Peak_Cycles" />
+      <item itemvalue="Python.Peak_Plot" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ZoomedGraph" />
-        <item itemvalue="Python.box_counting_graph" />
-        <item itemvalue="Python.Eigen_Zoom" />
-        <item itemvalue="Python.Graph1" />
-        <item itemvalue="Python.Henon_Fixed_Point" />
+        <item itemvalue="Python.Peak_Cycles" />
+        <item itemvalue="Python.Peak_Plot" />
+        <item itemvalue="Python.Inverse_Lozi" />
+        <item itemvalue="Python.Lozi_Eigen_Dimension" />
+        <item itemvalue="Python.Lozi_Cycles" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +334,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e3724461-5cd0-49fd-962c-15cf4bc0466d" name="Default Changelist" comment="" />
+      <changelist id="a78a5d40-c707-47cd-9ddd-f1f2b6c537d4" name="Default Changelist" comment="" />
       <created>1539138262536</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -399,24 +368,31 @@
       <option name="project" value="LOCAL" />
       <updated>1550080095669</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2/13/19 box counting graph update">
+      <created>1550110366292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550110366292</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24917382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24917382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35977337" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35977337" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4996277" weight="0.3294702" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4996277" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003723" side_tool="true" weight="0.3294702" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -517,42 +493,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project1/box_counting_graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Starts.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project1/ZoomedGraph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
+        <state relative-caret-position="1547">
           <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
@@ -564,6 +507,155 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project1/box_counting_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Zoom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="59" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Eigen_Starts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues" />
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Lozi_Atteactor.py" />
+    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/EigenValues.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Lozi_Cycle_Values.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Lozi_Eigenvalues.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Lozi_Dimension">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Newton_Fractal_d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Lozi_Cycles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Lozi_Attractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Inverse_Lozi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Lozi_Eigen_Dimension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Lozi_Box_Counting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Brute_Force_Lozi_Cycles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/Newton_Finder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2/Superstable_Finder_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Peak_Plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Peak_Cycles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Brute_Force_Cycles.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Henon_Periodic_Orbits/Cycle_Values.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractal_Scripts/Peak_Cycle_Values.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
