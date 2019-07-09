@@ -24,6 +24,7 @@ start_time = time.process_time()
 x = [x_initial]
 y = [y_initial]
 
+
 while len(x) <= iterations:
     x_initial, y_initial = henon_attractor(a, b, x_initial, y_initial)
     if (x_initial <= x_range[1]) & (x_initial >= x_range[0]) & (y_initial >= y_range[0]) & (y_initial <= y_range[1]):
